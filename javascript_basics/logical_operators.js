@@ -14,3 +14,4 @@ console.log(b > a && c > b); // and
 // of the value it is applied to
 // !true = false
 // !false = true
+console.log(!(a > b && a > b))
