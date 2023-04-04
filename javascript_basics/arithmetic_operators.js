@@ -3,8 +3,8 @@
 // Arithmetic operators are used to perform
 // arithmetic operations
 
-let a = 2;
-let b = 3;
+const a = 2;
+const b = 3;
 
 console.log(a + b); // addition
 console.log(a - b); // subtraction
