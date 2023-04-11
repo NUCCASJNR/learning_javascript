@@ -7,19 +7,17 @@
 // var variable_name = value;
 // declares variables that can be accessed global
 
-const name = 'sideeq';
-console.log(name);
-// let variable_name = value;
-// declares variables that can only be accesses
-// within the block of code
-// const age = 16;
-// console.log(age);
 
-// // const variable_name = value;
-// // declares variables that can not be reassigned
-// const country = 'Nigeria';
-// console.log(country);
-// /**/
 
-// const note = 'bok';
-// console.log(note);
+// function myFunction() {
+//     var x = 10;
+//     console.log(x); // Output: 10
+//   }
+// console.log(x); // output: undefined
+
+function exampleVar() {
+  var x = 1;
+  console.log(x)
+}
+// console.log(x)
+exampleVar()
